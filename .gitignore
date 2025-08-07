@@ -18,5 +18,7 @@ Thumbs.db
 env/
 venv/
 
+data/processed/*.npy
+
 # Gradio temp
 *.log
