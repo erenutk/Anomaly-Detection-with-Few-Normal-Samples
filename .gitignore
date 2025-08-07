@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Model files
+models/*.pkl
+models/*.keras
+
+# Numpy arrays (optional)
+data/processed/*.npy
+
+# Gradio temp
+*.log

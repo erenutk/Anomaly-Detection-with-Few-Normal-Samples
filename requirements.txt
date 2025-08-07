@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scikit-learn
+albumentations
+matplotlib
+tqdm
+joblib
+tensorflow
+gradio
+scikit-image
