@@ -18,6 +18,8 @@ Thumbs.db
 env/
 venv/
 
+
+# Numpy arrays
 data/processed/*.npy
 
 # Gradio temp
