@@ -18,12 +18,5 @@ Thumbs.db
 env/
 venv/
 
-# Model files
-models/*.pkl
-models/*.keras
-
-# Numpy arrays (optional)
-data/processed/*.npy
-
 # Gradio temp
 *.log
